@@ -26,12 +26,12 @@ export default function Home() {
          <p> 
          My name is Perez Govender. I was born on the 2nd of April 1999.
      I am from a small town called Tongaat in the KZN area. Growing up I did 
-     not have much but I made do with I was given. At the age of 9 my parents purchased our first home pc, I won't
+     not have much but I made do with what I was given. At the age of 9 my parents purchased our first home pc, I won't
      forget the crazy my brother and through after putting it on as it was something new, but at that moment I knew my love for 
      computers have begun. In high my grade 9 year is one I would not forget, it was the year were all grade 9's had to choose 
      they course they would like to study through the next 3 years of high school. Being an I.T. lover my first choice was I.T. but 
      a lot of doubt and underestimation was installed, reason being that I.T. is difficult and I wouldn't make it, that did not stop me,
-     I pushed back and proved everybody wroong, I became one of the top achievers in I.T. during my schooling time. At this point I then expanded 
+     I pushed back and proved everybody wrong, I became one of the top achievers in I.T. during my schooling time. At this point I then expanded 
      my love for I.T. into the software aspect of it, at that moment I knew I had to become a software developer. 4 years later on the 30th of July 2021 I graduated from Durban 
      University of Technology with a National Diploma in Information and Communication Technology in Application Development, it was the proudest moment 
      in my life, it was the day I not only proved people wrong but the day I got to show those who thought they couldn't do it, that they can.
