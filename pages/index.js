@@ -27,8 +27,8 @@ export default function Home() {
          My name is Perez Govender. I was born on the 2nd of April 1999.
      I am from a small town called Tongaat in the KZN area. Growing up I did 
      not have much but I made do with what I was given. At the age of 9 my parents purchased our first home pc, I won't
-     forget the crazy my brother and through after putting it on as it was something new, but at that moment I knew my love for 
-     computers have begun. In high my grade 9 year is one I would not forget, it was the year were all grade 9's had to choose 
+     forget the experience my brother and I went through after putting it on as it was something new, but at that moment I knew my love for 
+     computers have begun. My grade 9 year is one I would not forget, it was the year were all grade 9's had to choose 
      they course they would like to study through the next 3 years of high school. Being an I.T. lover my first choice was I.T. but 
      a lot of doubt and underestimation was installed, reason being that I.T. is difficult and I wouldn't make it, that did not stop me,
      I pushed back and proved everybody wrong, I became one of the top achievers in I.T. during my schooling time. At this point I then expanded 
@@ -41,7 +41,7 @@ export default function Home() {
      camping, and much more. Hobbies are something that I have too many of which is not a very good thing as to fund those hobbies are not easy,
      but a few just to understand me better include fishing being at the absolute top of the list, Playing soccer coming right below that, Swimming, playing one of the
      traditional South African sports being cricket, and the list goes on. I am a very curious minded individual who is always wanting to know how does something work, I will 
-     make it my mission to figure and understand it out. I'm an ambitious and hardworking individual who always make show I get my work completed on or before time.
+     make it my mission to figure and understand it out. I'm an ambitious and hardworking individual who always makes show I get my work completed on or before time.
      I don't want to spoil to much about myself here because with the hopes of getting selected for this program I would like to keep a few details for my live interview.
      That's me in a jiffy or essay rather.
          </p>
